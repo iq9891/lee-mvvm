@@ -1,0 +1,10 @@
+node_modules
+.Ds_store
+node_modules
+.tmp
+.sass-cache
+.idea
+npm-debug.log
+*.map
+.Ds_store
+*.swp
