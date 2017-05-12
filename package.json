@@ -1,0 +1,19 @@
+{
+  "name": "mvvm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 8001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iq9891/lee-mvvm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iq9891/lee-mvvm/issues"
+  },
+  "homepage": "https://github.com/iq9891/lee-mvvm#readme"
+}
